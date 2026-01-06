@@ -1,0 +1,13 @@
+# pystructures
+
+A learning-focused Python library implementing core data structures.
+
+## Implemented
+- Array
+- Singly Linked List
+- Doubly Linked List
+
+## Goals
+- Clean, minimal implementations
+- Focus on correctness and clarity
+- Suitable for DSA learning and practice
