@@ -6,6 +6,8 @@ A learning-focused Python library implementing core data structures.
 - Array
 - Singly Linked List
 - Doubly Linked List
+- Stack
+- Queue
 
 ## Goals
 - Clean, minimal implementations
