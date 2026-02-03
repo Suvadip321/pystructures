@@ -38,4 +38,3 @@ def postorder(root):
         res.append(node.data)
     dfs(root)
     return res
-
