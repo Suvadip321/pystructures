@@ -8,6 +8,9 @@ A learning-focused Python library implementing core data structures.
 - Doubly Linked List
 - Stack
 - Queue
+- Binary Tree
+- BST (Binary Search Tree)
+- Graph
 
 ## Goals
 - Clean, minimal implementations
